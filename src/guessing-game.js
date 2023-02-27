@@ -1,8 +1,8 @@
 class GuessingGame {
     constructor() {
-        this.center = "";
-        this.left = "";
-        this.right = "";
+        this.center ;
+        this.left  ;
+        this.right ;
     }
 
 
