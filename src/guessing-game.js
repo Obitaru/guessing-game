@@ -12,7 +12,7 @@ this.max = max
     }
 
     guess() {
-return this.center = (this.left+this.right)/2;
+return this.center = Math.round((this.left+this.right)/2);
     }
 
     lower() {
